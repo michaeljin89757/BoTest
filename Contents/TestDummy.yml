@@ -42,6 +42,8 @@ authors:
   displayName: randy-r
 - id: v-thepet
   displayName: Theano Petersen
+- id: v-michaeljin
+  displayName: Michael Jin
 codeUrl: https://github.com/aspnet/aspnetcore.docs/tree/main/aspnetcore/tutorials/grpc
 content: "\r\n\r\n\r\n\r\nThis sample demonstrates a .NET Core [gRPC](https://grpc.io/docs/guides/) client and an ASP.NET Core gRPC Server.\r\n\r\nFor a tutorial on this sample see [Tutorial: Create a gRPC client and server in ASP.NET Core](https://docs.microsoft.com/aspnet/core/tutorials/grpc/grpc-start?view=aspnetcore-3.1&tabs=visual-studio)\r\n\r\n### Docs help & next steps for gRPC\r\n\r\n* [Introduction to gRPC on ASP.NET Core](https://docs.microsoft.com/aspnet/core/grpc/)\r\n* [gRPC services with C#](https://docs.microsoft.com/aspnet/core/grpc/basics/)\r\n* [Migrating gRPC services from C-core to ASP.NET Core](https://docs.microsoft.com/aspnet/core/grpc/migration/)"
 description: Sample projects for a gRPC Service and gRPC client on ASP.NET Core.
