@@ -1,4 +1,4 @@
 version: "1"
 rules:
   - base: live
-    upstream: main
+    upstream: michaeljin89757:main

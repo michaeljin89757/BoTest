@@ -1,0 +1,58 @@
+### YamlMime:Sample
+authors:
+- id: wadepickett
+  displayName: Wade Pickett
+- id: guardrex
+  displayName: Luke Latham
+- id: serpent5
+  displayName: Kirk Larkin
+- id: FrankAtHexagon
+  displayName: Frank Edwards
+- id: smandia
+  displayName: smandia
+- id: Rick-Anderson
+  displayName: Rick Anderson
+- id: JamesNK
+  displayName: James Newton-King
+- id: scottaddie
+  displayName: Scott Addie
+- id: jongalloway
+  displayName: Jon Galloway
+- id: cpoDesign
+  displayName: Pavel
+- id: HamidMolareza
+  displayName: Hamid Molareza
+- id: arialdomartini
+  displayName: Arialdo Martini
+- id: IEvangelist
+  displayName: David Pine
+- id: supernova-eng
+  displayName: docs.microsoft.com Product Bot
+- id: spboyer
+  displayName: Shayne Boyer
+- id: noctwolf
+  displayName: noctwolf
+- id: tdykstra
+  displayName: Tom Dykstra
+- id: ramil89
+  displayName: Ramil Khayruddinov
+- id: nschonni
+  displayName: Nick Schonning
+- id: randy-r
+  displayName: randy-r
+- id: v-thepet
+  displayName: Theano Petersen
+codeUrl: https://github.com/aspnet/aspnetcore.docs/tree/main/aspnetcore/tutorials/grpc
+content: "\r\n\r\n\r\n\r\nThis sample demonstrates a .NET Core [gRPC](https://grpc.io/docs/guides/) client and an ASP.NET Core gRPC Server.\r\n\r\nFor a tutorial on this sample see [Tutorial: Create a gRPC client and server in ASP.NET Core](https://docs.microsoft.com/aspnet/core/tutorials/grpc/grpc-start?view=aspnetcore-3.1&tabs=visual-studio)\r\n\r\n### Docs help & next steps for gRPC\r\n\r\n* [Introduction to gRPC on ASP.NET Core](https://docs.microsoft.com/aspnet/core/grpc/)\r\n* [gRPC services with C#](https://docs.microsoft.com/aspnet/core/grpc/basics/)\r\n* [Migrating gRPC services from C-core to ASP.NET Core](https://docs.microsoft.com/aspnet/core/grpc/migration/)"
+description: Sample projects for a gRPC Service and gRPC client on ASP.NET Core.
+languages:
+- csharp
+metadata:
+  ms.date: 04/28/2022
+products:
+- dotnet-core
+- aspnet-core
+- vs
+title: Create a gRPC client and server in ASP.NET Core 3.1
+uid: aspnet-aspnetcore-docs-create-grpc-client
+zipUrl: ''
